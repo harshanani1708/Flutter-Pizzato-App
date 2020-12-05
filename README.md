@@ -23,4 +23,4 @@ Flutter Pizzato App developed with firestore, payments and google maps integrati
 
 <image src = "https://user-images.githubusercontent.com/75485524/101234137-f4a69a00-36e2-11eb-933a-3533ade0327a.png" width="450" height="900">
 
-<image src = "https://user-images.githubusercontent.com/75485524/101234138-f53f3080-36e2-11eb-95a3-42f06670e131.png" width="450" height="900">
+
